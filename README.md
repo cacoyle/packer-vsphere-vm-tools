@@ -60,4 +60,7 @@ These instructions will provide steps to build and use this post-processor in yo
   ]
 }
 ```
-  
+
+# Todo
+* Make retry interval and max attempts part of configuration
+* Fork/PR this feature to the packer/vsphere-template for review
